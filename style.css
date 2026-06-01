@@ -1,0 +1,30 @@
+body {
+
+    background-color: #6495ed;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    nav {
+        background-color: grey;
+        list-style: none;
+        width: fit-content;
+    }
+     .ancora1 {
+         color: aqua;
+     }
+     .ancora2 {
+         color: aquamarine;
+     }
+     .ancora3 {
+         color: cadetblue;
+     }
+     .ancora4 {
+         color: darkblue;
+     }
+     .ancora5 {
+         color: darkcyan;
+     }
+     
+}
